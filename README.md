@@ -1,6 +1,6 @@
-# BVPIEEE Website
+# IEEE BVCOE Website
 
-Official website of BVP-IEEE 
+Official website of IEEE BVCOE 
 <br><br>
 <img src="/img/IEEEBVCOE.png" alt="Alt text" title="Optional title">
 
